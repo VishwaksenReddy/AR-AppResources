@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3423068245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a81964df42238d2b13a04f5029f1fb2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9cb10f35bce2c5bc78abc894643005b2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b663cd81c8e4e2643a4a0bb1079379aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d1094b7188c2504fb591dcc51042647, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 280d3f0b6e895fc4c9e8891ff2265a24, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Akasa/trygon/Mutant Swiping.fbx
+- Assets/Models/Akasa/Sam/Magic Attack.fbx
+- Assets/Models/Akasa/Sam_Prefab.prefab
+- Assets/Models/Akasa/SamController.controller
+- Assets/Models/Akasa/Sam/Idle.fbx
+- Assets/Models/Akasa/Sam/Sam.fbx
+- Assets/Models/Akasa/Sam/Backflip.fbx
+- Assets/Models/Akasa/TrynagonController.controller
+- Assets/Models/Akasa/Trygon_Prefab.prefab
+- Assets/Models/Akasa/trygon/Salute.fbx
+- Assets/Models/Akasa/trygon/trygon_Tpose.fbx
+- Assets/Models/Akasa/trygon/Idle.fbx
+Dependencies: []
